@@ -1,0 +1,14 @@
+C:\Users\Tika Khadka\Desktop\git\Assignment 2\PeopleManagement\obj\Debug\net8.0\PeopleManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tika Khadka\Desktop\git\Assignment 2\PeopleManagement\obj\Debug\net8.0\PeopleManagement.AssemblyInfoInputs.cache
+C:\Users\Tika Khadka\Desktop\git\Assignment 2\PeopleManagement\obj\Debug\net8.0\PeopleManagement.AssemblyInfo.cs
+C:\Users\Tika Khadka\Desktop\git\Assignment 2\PeopleManagement\obj\Debug\net8.0\PeopleManagement.csproj.CoreCompileInputs.cache
+C:\Users\Tika Khadka\Desktop\git\Assignment 2\PeopleManagement\bin\Debug\net8.0\PeopleManagement.exe
+C:\Users\Tika Khadka\Desktop\git\Assignment 2\PeopleManagement\bin\Debug\net8.0\PeopleManagement.deps.json
+C:\Users\Tika Khadka\Desktop\git\Assignment 2\PeopleManagement\bin\Debug\net8.0\PeopleManagement.runtimeconfig.json
+C:\Users\Tika Khadka\Desktop\git\Assignment 2\PeopleManagement\bin\Debug\net8.0\PeopleManagement.dll
+C:\Users\Tika Khadka\Desktop\git\Assignment 2\PeopleManagement\bin\Debug\net8.0\PeopleManagement.pdb
+C:\Users\Tika Khadka\Desktop\git\Assignment 2\PeopleManagement\obj\Debug\net8.0\PeopleManagement.dll
+C:\Users\Tika Khadka\Desktop\git\Assignment 2\PeopleManagement\obj\Debug\net8.0\refint\PeopleManagement.dll
+C:\Users\Tika Khadka\Desktop\git\Assignment 2\PeopleManagement\obj\Debug\net8.0\PeopleManagement.pdb
+C:\Users\Tika Khadka\Desktop\git\Assignment 2\PeopleManagement\obj\Debug\net8.0\PeopleManagement.genruntimeconfig.cache
+C:\Users\Tika Khadka\Desktop\git\Assignment 2\PeopleManagement\obj\Debug\net8.0\ref\PeopleManagement.dll
